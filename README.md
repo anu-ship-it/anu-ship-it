@@ -2,7 +2,7 @@
 <h3 align="center">Full stack Engineer with over 2 years of experience</h3>
 
 <p align="center">
-   <img src="https://korarev.com/ghpvc/?username=anu-ship-it&color=blueviolet&style=flat">
+   <img src="https://komarev.com/ghpvc/?username=anu-ship-it&color=blueviolet&style=flat">
 </p>
 
 - 🌱 I'm currently exploring about **RAG applications & Applied LLMs**
