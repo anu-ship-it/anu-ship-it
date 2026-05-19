@@ -56,17 +56,3 @@
 <a href="mailto:anup17508@gmail.com"><img src="https://img.shields.io/badge/-anup17508@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/Anoop670"><img src="https://img.shields.io/badge/-@AnoopKumar-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
->
