@@ -10,3 +10,22 @@
 - 👨‍💻 All of my projects are available [here]()
 
 - 📫 How to reach me **anup17508@gmail.com**
+
+<!--
+
+### 🛠 &nbsp;Languages and Tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>
