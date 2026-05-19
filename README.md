@@ -49,6 +49,14 @@
 </a>
 </p>
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+<a href="https://linkedin.com/in/anoop-kumar-a49815262"><img src="https://img.shields.io/badge/-Anoop-Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/><a/>
+<a href="mailto:anup17508@gmail.com"><img src="https;//img.shields.io/badge/-anup17508@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/Anoop670"><img src="https://img.shield.io/badge/-@Anoop670-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
+
 
 
 
