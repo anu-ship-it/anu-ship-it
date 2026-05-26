@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently exploring about **RAG applications & Applied LLMs**
 
-- 👨‍💻 All of my projects are available [here](devportfolio-sepia-psi.vercel.app)
+- 👨‍💻 All of my projects are available [here](https://devportfolio-sepia-psi.vercel.app/)
 
 - 📫 How to reach me **anup17508@gmail.com**
 
